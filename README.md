@@ -17,7 +17,7 @@ Witaj w projekcie WordPressa! Poniżej znajdziesz kroki niezbędne do zainstalow
 
 + Po zakończeniu instalacji, uruchom XAMPP Control Panel.
 + Włącz serwery Apache i MySQL, klikając przycisk "Start" obok ich nazw.
-1. Instalacja WordPressa
+2. Instalacja WordPressa
 + Pobierz WordPress:
 
 + Odwiedź oficjalną stronę WordPress.
