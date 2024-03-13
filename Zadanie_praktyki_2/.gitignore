@@ -1,0 +1,17 @@
+# Ignoruj katalog wp-content/uploads, gdzie przechowywane są przesłane pliki
+wp-content/uploads/
+
+# Ignoruj plik konfiguracyjny WordPressa
+wp-config.php
+
+# Ignoruj pliki tymczasowe
+*.tmp
+.DS_Store
+
+# Ignoruj katalogi projektów
+/node_modules/
+/vendor/
+
+# Ignoruj pliki i katalogi konfiguracyjne IDE
+.vscode/
+.idea/
