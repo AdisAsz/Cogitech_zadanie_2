@@ -6,11 +6,9 @@ Witaj w projekcie WordPressa! Poniżej znajdziesz kroki niezbędne do zainstalow
 
 1. Instalacja XAMPP
 + Pobierz XAMPP:
-
 + Odwiedź oficjalną stronę XAMPP.
 + Pobierz najnowszą wersję XAMPP dla systemu Windows.
 + Zainstaluj XAMPP:
-
 + Uruchom pobrany plik instalacyjny i postępuj zgodnie z instrukcjami instalatora.
 + Zaznacz "Apache" i "MySQL" podczas instalacji.
 + Uruchom XAMPP:
@@ -20,11 +18,9 @@ Witaj w projekcie WordPressa! Poniżej znajdziesz kroki niezbędne do zainstalow
   >
 2. Instalacja WordPressa
 + Pobierz WordPress:
->
 + Odwiedź oficjalną stronę WordPress.
 + Pobierz najnowszą wersję WordPressa.
 + Przenieś Pliki do Katalogu Serwera:
->
 + Rozpakuj pobrane pliki WordPressa.
 + Przenieś je do katalogu, gdzie masz zainstalowany serwer HTTP (np. htdocs w przypadku XAMPP).
 
@@ -33,7 +29,7 @@ Witaj w projekcie WordPressa! Poniżej znajdziesz kroki niezbędne do zainstalow
 1. Pobierz Projekt z GitHuba:
 
 + Sklonuj repozytorium za pomocą poniższej komendy w terminalu:
-*git clone https://github.com/twoje-konto/twoj-projekt.git*
+*git clone  https://github.com/AdisAsz/Cogitech_zadanie_2.git*
 + Przenieś Pliki do Katalogu Serwera:
 
 + Przenieś pobrane pliki projektu do katalogu, gdzie masz zainstalowany serwer HTTP (np. htdocs w przypadku XAMPP).
