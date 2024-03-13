@@ -14,8 +14,7 @@ Witaj w projekcie WordPressa! Poniżej znajdziesz kroki niezbędne do zainstalow
 + Uruchom XAMPP:
 + Po zakończeniu instalacji, uruchom XAMPP Control Panel.
 + Włącz serwery Apache i MySQL, klikając przycisk "Start" obok ich nazw.
-  >
-  >
+>
 2. Instalacja WordPressa
 + Pobierz WordPress:
 + Odwiedź oficjalną stronę WordPress.
@@ -24,7 +23,6 @@ Witaj w projekcie WordPressa! Poniżej znajdziesz kroki niezbędne do zainstalow
 + Rozpakuj pobrane pliki WordPressa.
 + Przenieś je do katalogu, gdzie masz zainstalowany serwer HTTP (np. htdocs w przypadku XAMPP).
 
->
 # Uruchomienie Projektu z GitHuba
 1. Pobierz Projekt z GitHuba:
 
